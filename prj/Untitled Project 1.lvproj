@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="mainv1.vi" Type="VI" URL="../../subVIs/mainv1.vi"/>
+		<Item Name="mainv2.vi" Type="VI" URL="../../subVIs/mainv2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
